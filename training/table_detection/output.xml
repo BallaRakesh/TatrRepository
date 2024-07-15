@@ -1,0 +1,170 @@
+<page>
+  <table>
+    <boundingbox x="82" y="86" w="405" h="114"/>
+    <cell row="0" column="0">
+      <boundingbox x="90" y="91" w="109" h="7"/>
+    </cell>
+    <cell row="0" column="1">
+      <boundingbox x="210" y="91" w="156" h="7"/>
+    </cell>
+    <cell row="0" column="2">
+      <boundingbox x="380" y="91" w="99" h="7"/>
+    </cell>
+    <cell row="1" column="0">
+      <boundingbox x="90" y="103" w="109" h="9"/>
+    </cell>
+    <cell row="1" column="1">
+      <boundingbox x="210" y="103" w="156" h="9"/>
+    </cell>
+    <cell row="1" column="2">
+      <boundingbox x="380" y="103" w="99" h="9"/>
+    </cell>
+    <cell row="2" column="0">
+      <boundingbox x="90" y="116" w="109" h="9"/>
+    </cell>
+    <cell row="2" column="1">
+      <boundingbox x="210" y="116" w="156" h="9"/>
+    </cell>
+    <cell row="2" column="2">
+      <boundingbox x="380" y="116" w="99" h="9"/>
+    </cell>
+    <cell row="3" column="0">
+      <boundingbox x="90" y="129" w="109" h="9"/>
+    </cell>
+    <cell row="3" column="1">
+      <boundingbox x="210" y="129" w="156" h="9"/>
+    </cell>
+    <cell row="3" column="2">
+      <boundingbox x="380" y="129" w="99" h="9"/>
+    </cell>
+    <cell row="4" column="0">
+      <boundingbox x="90" y="141" w="109" h="9"/>
+    </cell>
+    <cell row="4" column="1">
+      <boundingbox x="210" y="141" w="156" h="9"/>
+    </cell>
+    <cell row="4" column="2">
+      <boundingbox x="380" y="141" w="99" h="9"/>
+    </cell>
+    <cell row="5" column="0">
+      <boundingbox x="90" y="154" w="109" h="9"/>
+    </cell>
+    <cell row="5" column="1">
+      <boundingbox x="210" y="154" w="156" h="9"/>
+    </cell>
+    <cell row="5" column="2">
+      <boundingbox x="380" y="154" w="99" h="9"/>
+    </cell>
+    <cell row="6" column="0">
+      <boundingbox x="90" y="166" w="109" h="9"/>
+    </cell>
+    <cell row="6" column="1">
+      <boundingbox x="210" y="166" w="156" h="9"/>
+    </cell>
+    <cell row="6" column="2">
+      <boundingbox x="380" y="166" w="99" h="9"/>
+    </cell>
+    <cell row="7" column="0">
+      <boundingbox x="90" y="179" w="109" h="9"/>
+    </cell>
+    <cell row="7" column="1">
+      <boundingbox x="210" y="179" w="156" h="9"/>
+    </cell>
+    <cell row="7" column="2">
+      <boundingbox x="380" y="179" w="99" h="9"/>
+    </cell>
+    <cell row="8" column="0">
+      <boundingbox x="90" y="192" w="109" h="8"/>
+    </cell>
+    <cell row="8" column="1">
+      <boundingbox x="210" y="192" w="156" h="8"/>
+    </cell>
+    <cell row="8" column="2">
+      <boundingbox x="380" y="192" w="99" h="8"/>
+    </cell>
+  </table>
+  <table>
+    <boundingbox x="81" y="411" w="406" h="325"/>
+    <cell row="0" column="0">
+      <boundingbox x="90" y="411" w="53" h="11"/>
+    </cell>
+    <cell row="0" column="1">
+      <boundingbox x="154" y="411" w="34" h="11"/>
+    </cell>
+    <cell row="0" column="2">
+      <boundingbox x="200" y="411" w="38" h="11"/>
+    </cell>
+    <cell row="1" column="0">
+      <boundingbox x="90" y="426" w="53" h="8"/>
+    </cell>
+    <cell row="1" column="1">
+      <boundingbox x="154" y="426" w="34" h="8"/>
+    </cell>
+    <cell row="1" column="2">
+      <boundingbox x="200" y="426" w="38" h="8"/>
+    </cell>
+    <cell row="2" column="0">
+      <boundingbox x="90" y="437" w="53" h="9"/>
+    </cell>
+    <cell row="2" column="1">
+      <boundingbox x="154" y="437" w="34" h="9"/>
+    </cell>
+    <cell row="2" column="2">
+      <boundingbox x="200" y="437" w="38" h="9"/>
+    </cell>
+    <cell row="3" column="0">
+      <boundingbox x="90" y="450" w="53" h="7"/>
+    </cell>
+    <cell row="3" column="1">
+      <boundingbox x="154" y="450" w="34" h="7"/>
+    </cell>
+    <cell row="3" column="2">
+      <boundingbox x="200" y="450" w="38" h="7"/>
+    </cell>
+    <cell row="4" column="0">
+      <boundingbox x="90" y="463" w="53" h="9"/>
+    </cell>
+    <cell row="4" column="1">
+      <boundingbox x="154" y="463" w="34" h="9"/>
+    </cell>
+    <cell row="4" column="2">
+      <boundingbox x="200" y="463" w="38" h="9"/>
+    </cell>
+    <cell row="5" column="0">
+      <boundingbox x="90" y="475" w="53" h="9"/>
+    </cell>
+    <cell row="5" column="1">
+      <boundingbox x="154" y="475" w="34" h="9"/>
+    </cell>
+    <cell row="5" column="2">
+      <boundingbox x="200" y="475" w="38" h="9"/>
+    </cell>
+    <cell row="6" column="0">
+      <boundingbox x="90" y="488" w="53" h="9"/>
+    </cell>
+    <cell row="6" column="1">
+      <boundingbox x="154" y="488" w="34" h="9"/>
+    </cell>
+    <cell row="6" column="2">
+      <boundingbox x="200" y="488" w="38" h="9"/>
+    </cell>
+    <cell row="7" column="0">
+      <boundingbox x="90" y="500" w="53" h="7"/>
+    </cell>
+    <cell row="7" column="1">
+      <boundingbox x="154" y="500" w="34" h="7"/>
+    </cell>
+    <cell row="7" column="2">
+      <boundingbox x="200" y="500" w="38" h="7"/>
+    </cell>
+    <cell row="8" column="0">
+      <boundingbox x="90" y="512" w="53" h="9"/>
+    </cell>
+    <cell row="8" column="1">
+      <boundingbox x="154" y="512" w="34" h="9"/>
+    </cell>
+    <cell row="8" column="2">
+      <boundingbox x="200" y="512" w="38" h="9"/>
+    </cell>
+  </table>
+</page>
